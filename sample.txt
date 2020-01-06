@@ -1,1 +1,2 @@
 This is my first test commit with git!
+<b> This file has been changed by Son Dinh </b>
